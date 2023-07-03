@@ -1,4 +1,4 @@
-# Q1
+## Q1
 
 This program calculates Fibonacci numbers using a binary expression tree. It is written in C and can be compiled and run on multiple operating systems.
 
@@ -26,7 +26,7 @@ To run the program, follow these steps:
 Note: Ensure that you have a C compiler installed on your machine before compiling the code.
 
 
-# Q2
+## Q2
 
 This repository contains three programs (`dynamic.c`, `iterative.c`, `recursive.c`) to calculate Fibonacci numbers. Each program follows a different approach to calculate the Fibonacci sequence.
 
