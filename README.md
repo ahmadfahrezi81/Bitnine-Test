@@ -34,7 +34,11 @@ This repository contains three programs (`dynamic.c`, `iterative.c`, `recursive.
 
 To run the programs, follow these steps:
 
-1. Open a terminal or command prompt and navigate to the directory containing the programs (`Q2` directory).
+1. Navigate to the `Q2` directory:
+
+    ```shell
+    cd Q2
+    ```
 
 2. Compile the source code for the desired program using a C compiler (e.g., GCC or Clang) by running the following command:
 
